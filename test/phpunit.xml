@@ -1,0 +1,8 @@
+<phpunit bootstrap="bootstrap.php" backupGlobals="false">
+  <testsuites>
+    <testsuite name="enigma">
+      <file>CircuitTest.php</file>
+      <file>RotorTest.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
